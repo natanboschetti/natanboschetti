@@ -1,6 +1,7 @@
 ## Hi there! Eu sou o Natan Boschetti. Bem Vindo!
 
 - Atualmente estudando Desenvolvimento Web como front-end
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=natanboschetti&color=gray" alt="Profile views" /> </p>
 
 <div align="center">
   <a href="https://github.com/natanboschetti">
