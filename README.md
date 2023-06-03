@@ -1,17 +1,14 @@
 ## Eu sou o Natan Boschetti. Bem Vindo!
 
-- Atualmente estudando Desenvolvimento Web como front-end
+- Atualmente estudando Desenvolvimento Web
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natanboschetti&color=gray" alt="Profile views" /> </p>
 
-<div align="center">
-  <a href="https://github.com/natanboschetti">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=natanboschetti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanboschetti&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="" height="30" width="30" src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png">
+
 </div>
 
 ##
