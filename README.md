@@ -1,7 +1,7 @@
 ## Eu sou o Natan Boschetti. Bem Vindo!
 
-- Atualmente estudando Desenvolvimento Web
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natanboschetti&color=gray" alt="Profile views" /> </p>
+- Atualmente estudando Java
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
